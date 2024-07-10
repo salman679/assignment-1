@@ -111,6 +111,7 @@ body {
   margin: 32px 0px 44px;
   border-radius: 8px;
   background: rgb(13, 19, 33);
+  text-decoration: none;
 }
 
 /* web Section */
@@ -407,6 +408,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   background: rgb(255, 255, 255);
+  cursor: pointer;
 }
 
 /* footer section */
