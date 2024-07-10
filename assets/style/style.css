@@ -38,7 +38,6 @@ body {
 }
 
 .header .resume {
-  color: rgb(13, 19, 33);
   font-size: 20px;
   font-family: "Azeret Mono", monospace;
   font-weight: 600;
@@ -47,11 +46,13 @@ body {
   text-align: center;
 }
 
-.header .resume button {
+.header .resume a {
   box-sizing: border-box;
+  color: rgb(13, 19, 33);
   border: 1px solid rgb(13, 19, 33);
   border-radius: 8px;
   opacity: 0.8;
+  text-decoration: none;
   padding: 17px 24px 17px 24px;
 }
 
